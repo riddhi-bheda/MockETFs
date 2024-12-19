@@ -50,8 +50,6 @@ Additional visualizations:
 ---
 
 ## Public Dashboard Link  
-Explore the Tableau dashboard here:  
-https://public.tableau.com/views/MockETFs_17345947737320/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
----
+[Explore the Tableau dashboard here](https://public.tableau.com/views/MockETFs_17345947737320/Dashboard5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This repository includes the Tableau dashboard embed and resources to explore the **mock ETF analysis**.
